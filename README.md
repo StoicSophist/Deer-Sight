@@ -84,6 +84,8 @@ It's important to emphasize that the benefits depend on responsible and ethical 
 
 ## Feature Maps
 
+## Pose Machine
+
 ## data deck
 
 ## Alexnet 
