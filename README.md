@@ -108,7 +108,7 @@ While these feature maps may be able to help in the sight seeing of catching a d
 [Data Set](https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit#slide=id.g1e5fe554c84_0_138)
 
 ## Alexnet Code
-[Alexnet](https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
+[Alexnet Loaded Slides](https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
 
 ## Pose Machine
 
