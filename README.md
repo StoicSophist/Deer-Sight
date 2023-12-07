@@ -3,11 +3,9 @@
 <img src="craiyon_154555_A_deer_abstrakt_logo_vector_gold_and_black.png" width=300px height=300px>
 
 ## Issue
-Overhunting or unregulated hunting can lead to population imbalances and negatively impact ecosystems.
+**Overhunting or unregulated hunting can lead to population imbalances and negatively impact ecosystems.**
 
 Population monitoring is a critical aspect of wildlife management, ensuring the sustainable coexistence of species with their environments. Overhunting or unregulated hunting poses a significant threat to wildlife populations, as it can lead to imbalances in ecosystems, impacting biodiversity, ecological interactions, and overall ecosystem health.
-
-**Issue: Overhunting and Unregulated Hunting**
 
 1. **Biodiversity Impact:**
    - Overhunting can reduce the population of a particular species, affecting the balance of predator-prey relationships and disrupting the natural order within an ecosystem.
