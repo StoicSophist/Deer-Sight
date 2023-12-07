@@ -77,7 +77,8 @@ Training Loss - 0.34451
 A high training accuracy strongly indicates that the alexnet model is able to distinguish between the woods area and the woods area with a deer in it. This could get better feeding it harder photos where the deers blend in more.
 
 ## Feature Maps
-[Feature Maps](https://colab.research.google.com/drive/17-_aCg_DCBc31-3YXe_3Q6xBmXMNDjas?usp=sharing)
+[Feature Maps Collab](https://colab.research.google.com/drive/17-_aCg_DCBc31-3YXe_3Q6xBmXMNDjas?usp=sharing)
+[Feature Maps Github File](https://github.com/StoicSophist/Deer-Sight/blob/main/Sofia_Filters_Feature_Maps.ipynb)
 
 <img src="https://github.com/StoicSophist/Deer-Sight/blob/main/feature_map1.png" width=800px height=800px>
 
@@ -108,7 +109,8 @@ While these feature maps may be able to help in the sight seeing of catching a d
 [Data Set](https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit#slide=id.g1e5fe554c84_0_138)
 
 ## Alexnet Code
-[Alexnet Loaded Slides](https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
+[Alexnet Loaded Slides Collab](https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
+[Alexnet Loaded Slides Github File](https://github.com/StoicSophist/Deer-Sight/blob/main/Deer_Sight%20(1).ipynb)
 
 ## Pose Machine
 
