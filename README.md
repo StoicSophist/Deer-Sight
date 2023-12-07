@@ -79,6 +79,13 @@ It's important to emphasize that the benefits depend on responsible and ethical 
 
 
 ## Results
+### Training Progression Over Time
+The two graphs below are indicating the accuracy and the loss for the training run.
+### Accuracy of Training Model (Alexnet)
+(https://github.com/StoicSophist/Deer-Sight/blob/main/W%26B%20Chart%2012_7_2023%2C%202_18_17%20AM.png)
+
+### Loss
+(https://github.com/StoicSophist/Deer-Sight/blob/main/W%26B%20Chart%2012_7_2023%2C%202_18_28%20AM.png)
 
 ## Run Summary (Training accuracy/loss)
 
