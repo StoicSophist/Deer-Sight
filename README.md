@@ -87,7 +87,7 @@ It's important to emphasize that the benefits depend on responsible and ethical 
 ## Pose Machine
 
 ## data deck
-[Data Set] "https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit#slide=id.g1e5fe554c84_0_138"
+[Data Set](https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit#slide=id.g1e5fe554c84_0_138)
 ## Alexnet 
 
 
