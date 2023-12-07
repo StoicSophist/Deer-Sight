@@ -93,6 +93,7 @@ Training Accuracy - 0.96875
 Training Loss - 0.34451
 
 ## Feature Maps
+[Feature Maps](https://colab.research.google.com/drive/17-_aCg_DCBc31-3YXe_3Q6xBmXMNDjas?usp=sharing)
 <img src="https://github.com/StoicSophist/Deer-Sight/blob/main/feature_map1.png" width=800px height=400px>
 
 ## Pose Machine
