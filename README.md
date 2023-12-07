@@ -21,6 +21,8 @@ Population monitoring is a critical aspect of wildlife management, ensuring the 
 
 **AI Solution: AI-Powered Population Monitoring**
 
+- Using Alexnet I will be able to train a model with images of deer in woods and woods without deer. Then the images will be put into set categories that the pretrained network has that consist of various keywords liek pencil and many different animals.
+
 1. **Real-Time Surveillance:**
    - AI-powered systems, such as drones or camera networks equipped with computer vision technology, can conduct real-time surveillance of wildlife habitats. These systems continuously capture and analyze visual data, providing up-to-date information on the distribution and behavior of deer populations.
 
