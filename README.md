@@ -90,7 +90,7 @@ It's important to emphasize that the benefits depend on responsible and ethical 
 [Data Set](https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit#slide=id.g1e5fe554c84_0_138)
 
 ## Alexnet Code
-[Alexnet}(https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
+[Alexnet](https://colab.research.google.com/drive/1tw061zY6h9vZR_zn6XqUXWLfXRVJruhV?usp=sharing)
 
 
 
