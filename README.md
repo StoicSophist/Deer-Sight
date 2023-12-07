@@ -87,9 +87,13 @@ The two graphs below are indicating the accuracy and the loss for the training r
 ### Loss
 <img src="https://github.com/StoicSophist/Deer-Sight/blob/main/W%26B%20Chart%2012_7_2023%2C%202_18_28%20AM.png" width=800px height=400px>
 
-## Run Summary (Training accuracy/loss)
+### Run Summary (Training accuracy/loss)
+Training Accuracy - 0.96875
+
+Training Loss - 0.34451
 
 ## Feature Maps
+<img src="https://github.com/StoicSophist/Deer-Sight/blob/main/feature_map1.png" width=800px height=400px>
 
 ## Pose Machine
 
